@@ -84,6 +84,5 @@ public class Student
 				+ ", course=" + course + ", year=" + year + ", hallticketno=" + hallticketno + "]";
 	}
 	
-	
 
 }
